@@ -1,15 +1,15 @@
-## Olá! Eu sou Alicy Sousa 👋
+## Olá! Eu sou Alicy Sousa
 
 Desenvolvedora apaixonada por tecnologia e criação de soluções web. Atualmente estou focada no desenvolvimento front-end e análise de dados, sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades.
 
-### 🚀 Sobre mim
+### Sobre mim
 
-- 💻 Desenvolvedora com experiência em projetos web
-- 📊 Interesse em análise de dados e visualização
-- 🌱 Sempre aprendendo e evoluindo
-- ✨ Criando projetos com design moderno e funcional
+- Desenvolvedora com experiência em projetos web
+- Interesse em análise de dados e visualização
+- Sempre aprendendo e evoluindo
+- Criando projetos com design moderno e funcional
 
-### 🛠️ Linguagens e Tecnologias
+### Linguagens e Tecnologias
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -19,16 +19,16 @@ Desenvolvedora apaixonada por tecnologia e criação de soluções web. Atualmen
   <img align="center" alt="TailwindCSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
 </div>
 
-### 📌 Projetos em Destaque
+### Projetos em Destaque
 
-- 🎨 **Landing Pages** - Páginas web responsivas e modernas
-- 📊 **Análise de Dados** - Projetos com Python e Streamlit
-- 🌐 **Social Media** - Páginas de redes sociais com design atraente
+- **Landing Pages** - Páginas web responsivas e modernas
+- **Análise de Dados** - Projetos com Python e Streamlit
+- **Social Media** - Páginas de redes sociais com design atraente
 
-### 📫 Como me encontrar
+### Como me encontrar
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlicySousaa)
 
 ---
 
-💡 *"A tecnologia é melhor quando aproxima as pessoas."*
+*"A tecnologia é melhor quando aproxima as pessoas."*
