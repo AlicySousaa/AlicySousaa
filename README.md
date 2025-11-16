@@ -31,4 +31,4 @@ Desenvolvedora apaixonada por tecnologia e criação de soluções web. Atualmen
 
 ---
 
-*"A tecnologia é melhor quando aproxima as pessoas."*
+
