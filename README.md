@@ -3,7 +3,7 @@ Desenvolvedora apaixonada por tecnologia e criação de soluções web. Atualmen
 ### Sobre mim
 - Desenvolvedora com experiência em projetos web
 - Interesse em análise de dados e visualização
-- Sempre aprendendo e evoluindo
+- Sempre evoluindo
 - Criando projetos com design moderno e funcional
 ### Linguagens e tecnologias
 
