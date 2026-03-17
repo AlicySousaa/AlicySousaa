@@ -63,4 +63,4 @@ Acredito que boas soluções nascem da combinação entre código bem escrito e 
 
 ---
 
-<p align="center">Sempre aprendend
+<p align="center">Sempre aprendendo!
