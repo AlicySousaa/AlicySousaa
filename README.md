@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou [Seu Nome] 👋</h1>
+<h1 align="center">Olá, eu sou Alice Alves 👋</h1>
 
 <p align="center">
   Estudante de Análise e Desenvolvimento de Sistemas • Front-End • Suporte de TI • Gestão de Projetos
@@ -44,8 +44,8 @@ Acredito que boas soluções nascem da combinação entre código bem escrito e 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AlicySousaa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlicySousaa&layout=compact&langs_count=7&theme=tokyonight"/>
 </p>
 
 ---
