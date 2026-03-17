@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou Alice Alves 👋</h1>
+<h1 align="center">Olá, eu sou Alice Alves</h1>
 
 <p align="center">
   Estudante de Análise e Desenvolvimento de Sistemas • Front-End • Suporte de TI • Gestão de Projetos
@@ -56,11 +56,11 @@ Acredito que boas soluções nascem da combinação entre código bem escrito e 
   <a href="https://linkedin.com/in/SEU_LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:SEU_EMAIL">
+  <a href="/cdn-cgi/l/email-protection#104355454f555d51595c">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-<p align="center">Sempre aprendendo. Sempre construindo. 🚀</p>
+<p align="center">Sempre aprendend
