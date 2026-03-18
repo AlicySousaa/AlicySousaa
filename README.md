@@ -6,7 +6,7 @@
 
 ---
 
-### 👩‍💻 Sobre mim
+### Sobre mim
 
 Sou estudante de ADS no 5º período, apaixonada por tecnologia e pela criação de interfaces que fazem sentido para quem as usa. Minha trajetória une desenvolvimento Front-End, Suporte de TI e Gestão de Projetos — três frentes que se complementam e me tornam uma profissional mais completa a cada dia.
 
@@ -14,7 +14,7 @@ Acredito que boas soluções nascem da combinação entre código bem escrito e 
 
 ---
 
-### 🚀 Tecnologias que estudo e pratico
+###  Tecnologias que estudo e pratico
 
 <p>
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -26,7 +26,7 @@ Acredito que boas soluções nascem da combinação entre código bem escrito e 
 
 ---
 
-### 🌱 Áreas de foco
+###  Áreas de foco
 
 - 📱 **Front-End & Mobile** — desenvolvimento de interfaces com React Native e TypeScript
 - 🎨 **UX/UI Design** — foco na experiência do usuário e em interfaces acessíveis
@@ -50,7 +50,7 @@ Acredito que boas soluções nascem da combinação entre código bem escrito e 
 
 ---
 
-### 📫 Contato
+### Contato
 
 <p>
   <a href="https://linkedin.com/in/SEU_LINKEDIN">
