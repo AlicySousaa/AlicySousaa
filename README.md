@@ -6,7 +6,7 @@
 
 ---
 
-### Sobre mim
+###  Sobre mim
 
 Sou estudante de ADS no 5º período, apaixonada por tecnologia e pela criação de interfaces que fazem sentido para quem as usa. Minha trajetória une desenvolvimento Front-End, Suporte de TI e Gestão de Projetos — três frentes que se complementam e me tornam uma profissional mais completa a cada dia.
 
@@ -44,13 +44,13 @@ Acredito que boas soluções nascem da combinação entre código bem escrito e 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AlicySousaa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=AlicySousaa&theme=tokyonight"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlicySousaa&layout=compact&langs_count=7&theme=tokyonight"/>
 </p>
 
 ---
 
-### Contato
+### 📫 Contato
 
 <p>
   <a href="https://linkedin.com/in/SEU_LINKEDIN">
@@ -63,4 +63,4 @@ Acredito que boas soluções nascem da combinação entre código bem escrito e 
 
 ---
 
-<p align="center">Sempre aprendendo!
+<p align="center">Sempre aprendend
