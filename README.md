@@ -53,14 +53,13 @@ Acredito que boas soluções nascem da combinação entre código bem escrito e 
 ### 📫 Contato
 
 <p>
-  <a href="https://linkedin.com/in/SEU_LINKEDIN">
+  <a href="https://linkedin.com/in/alice-alves-b76a6238b">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="/cdn-cgi/l/email-protection#104355454f555d51595c">
+  <a href="mailto:liceee4ia@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-<p align="center">Sempre aprendend
