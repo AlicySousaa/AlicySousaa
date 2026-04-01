@@ -41,15 +41,6 @@ Acredito que boas soluções nascem da combinação entre código bem escrito e 
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=AlicySousaa&theme=tokyonight"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlicySousaa&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
-
----
-
 ### 📫 Contato
 
 <p>
